@@ -46,13 +46,13 @@ Models can be added to predict student performance using features like:
 - Parental education
 
 ## 📂 Folder Structure
-  
+
   📁 student-performance-analysis
-  
+
   ├── student-mat.csv
-  
+
   ├── analysis.py
-  
+
   └── README.md
 
 ## ✅ How to Run
@@ -65,7 +65,8 @@ Models can be added to predict student performance using features like:
 2. Install dependencies:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
-  
+
 3. Run the analysis:
    ```bash
-   python analysis.py
+   jupyter data_mining.ipynb
+   jupyter test.ipynb
