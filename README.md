@@ -51,7 +51,9 @@ Models can be added to predict student performance using features like:
 
   ├── student-mat.csv
 
-  ├── analysis.py
+  ├── data_mining.ipynb
+
+  ├── test.ipynb
 
   └── README.md
 
