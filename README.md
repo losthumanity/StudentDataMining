@@ -10,7 +10,7 @@ This project analyzes student performance using the [Student Alcohol Consumption
 
 ## 🛠️ Technologies Used
 
-- **Python 3.12.6
+- **Python 3.12.6**
 - **pandas** – Data manipulation
 - **matplotlib & seaborn** – Data visualization
 - **scikit-learn** – ML models (SVM, Random Forest)
@@ -46,11 +46,14 @@ Models can be added to predict student performance using features like:
 - Parental education
 
 ## 📂 Folder Structure
-
-📁 student-performance-analysis
-├── student-mat.csv
-├── analysis.py
-└── README.md
+  
+  📁 student-performance-analysis
+  
+  ├── student-mat.csv
+  
+  ├── analysis.py
+  
+  └── README.md
 
 ## ✅ How to Run
 
@@ -60,14 +63,9 @@ Models can be added to predict student performance using features like:
    cd student-performance-analysis
 
 2. Install dependencies:
-
-  bash
-  Copy
-  Edit
-  pip install pandas numpy matplotlib seaborn scikit-learn
+   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn
   
-  Run the analysis:
-  bash
-  Copy
-  Edit
-  python analysis.py
+3. Run the analysis:
+   ```bash
+   python analysis.py
