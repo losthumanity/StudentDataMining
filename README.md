@@ -37,10 +37,9 @@ Key steps in the analysis:
   - Study time vs average grade
   - Parental education vs average grade (Mother vs Father)
 
-## 📊 Machine Learning (optional if included)
+## 📊 Machine Learning
 
 Models can be added to predict student performance using features like:
-
 - Study time
 - Absences
 - Parental education
@@ -57,7 +56,7 @@ Models can be added to predict student performance using features like:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/losthumanity/student-performance-analysis.git
+   git clone https://github.com/losthumanity/StudentDataMining.git
    cd student-performance-analysis
    ```
 2. Install dependencies:
