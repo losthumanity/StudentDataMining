@@ -46,29 +46,26 @@ Models can be added to predict student performance using features like:
 - Parental education
 
 ## 📂 Folder Structure
-
+```bash
   📁 student-performance-analysis
-
   ├── student-mat.csv
-
   ├── data_mining.ipynb
-
   ├── test.ipynb
-
   └── README.md
-
+```
 ## ✅ How to Run
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/student-performance-analysis.git
+   git clone https://github.com/losthumanity/student-performance-analysis.git
    cd student-performance-analysis
-
+   ```
 2. Install dependencies:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
-
+   ```
 3. Run the analysis:
    ```bash
    jupyter data_mining.ipynb
    jupyter test.ipynb
+   ```
